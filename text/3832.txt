@@ -1,0 +1,2443 @@
+ALZUMA, A TRAGEDY. AS PERFORMED AT THE THEATRE ROYAL IN COVENT-GARDEN.
+Humana ante oculos faedè cum vita jaceret
+In terris oppressa gravi sub religione.
+LUCRET.
+LONDON: Printed for T. LOWNDES, No. 77, in
+Fleet-Street.
+MDCCLXXIII.
+Advertisement.
+THE precept, which directs a poet to keep his piece nine years, has been fully observed in regard to the following
+Tragedy;
+but the
+Author
+will not claim the merit of voluntary submission to critical authority. The delay, he acknowledges, did not arise from choice, but was rather the consequence of difficulties that stood in his way, and prevented an earlier access to the public.
+The Play was written in the year 1762, and the British forces were then actually doing at the HAVAN NAH, what ALZUMA prays for in the third act. The subject appeared of the first importance to the interests of humanity. In perusing the history of the Spanish conquests in AMBRICA, the AUTHOR found among unenlightened savages such instances of generosity, truth, justice, courage, and even clemency, as would have done honour to those, who profess'd in that part of the world to spread the light of truth and civilization. The behaviour of ATA-HUALPA (called by English writers ATABALIPA) the last INCA of PERU, in his intercourse with FRYAR VINCENTI, appeared particularly striking. He heard the SPANISH MISSIONER with calm attention, and replied,
+that it was absurd on the part of the
+POPE
+to grant away a territory which did not belong to him; he would still continue to venerate the gods of his ancestors; and if the christians worshipped a god that died, he adored the sun that never died.
+He viewed the the prayer-book, which the fryar put into his hands, and after saying that it conveyed to him no information, threw it down with a smile. By this honest simplicity, which would have gained the affections of a generous mind, FATHER VINCENTI was so enraged, that he gave the word of command, crying out,
+"Kill the dogs, who trample under foot the word of God."
+An incident like this could not fail to excite indignation; and that indignation rose still higher, when it appeared that articles of high treason were in form exhibited against ATAHUALPA, and, after that execrable farce of state, the prince of a world just discovered suffered as a rebel to the Emperor Charles V.—When GUATIMOZIN, one of the leading chiefs, lies stretched upon the rack, and, hearing the groans of his fellow sufferer, asks him, in perfect tranquillity,
+Am I upon a bed of roses?
+the heart, that does not melt with tenderness for the American, must be as hard as FRYAR VINCENTI'S. Not to multiply instances, the story of a people massacred because they abounded in gold-mines, and had not heard the important truths of the christian religion, seemed of all others the fittest for the English stage, as it tended in a strong degree to that pathetic distress, and that vigour of sentiment, which constitute the essential beauty of tragedy.
+The author regretted that such a genius as DRYDEN had not left a play, free from the jingle of rhyme, and of a more legitimate kind, that the present attempt might have been excluded. He regretted also, that, from DRYDEN's time, the poets of this nation seem to have abandoned the poor Americans to their fate. He knew that FRANCE was in possession of a beautiful play upon the subject: but the taste of LONDON and PARIS being very different, the late Mr. AARON HILL's translation of that piece, appeared upon the English stage and vanished.
+The present writer was of opinion that so interesting a subject ought not to be neglected. His first design was to new mould the ALZIRE of VOLTAIRE, not in a vain presumption that he could excel a writer so justly famous throughout Europe, but with an idea that he could in some instances adapt the scenes to the relish of an English audience. That plan, however, was soon deserted: it occurred, that if this author followed the steps of MONSIEUR DE VOLTAIRE, the words, FRENCH TRANSLATOR, UNBLUSHING PLAGIARY, would fill the columns of every news-paper. To civilities of this kind the author has been used. If the persons who have been so liberal feel themselves disposed to lavish their favours on the present occasion, they will perhaps be glad of a hint, that may supply ample materials. If they will look into the plays of SOPHOCLES and EURIPIDES, they will perceive in what school the writer of ALZUMA has studied the art of constructing a fable.
+Aspice ut exuvias veterumque insignia nobis
+Aptemus.—
+VIDA POETIC.
+There was another reason for not adhering to the plan of VOLTAIRE: In a country like this, it was thought that our scene ought not to be indebted to a foreign writer for a play, which involves the first great point of human liberty, namely, the right of man to think for himself. In this opinion ALZUMA was written, and (except a few minute corrections in the course of the rehearsals) was, in its present form, ready for the stage above ten years ago.
+There were, indeed, at that time certain reasons, which made the author unwilling to precipitate himself into a dealing with managers. Those reasons subsisted till Nov. 1767, when this tragedy was put into the hands of Mr. GARRICK. It was copied out by the prompter of Drury-Lane theatre, but remained in suspence till Sept. 1770, when the Author found it upon his table, without a letter, or even a card. The play, it is true, was not pronounced unworthy of representation, but certainly was treated as a piece that did not deserve the least dispatch. Delay was studied, and the reasons for that delay existed no where but in Mr. GARRICK's imagination. A certain political society, he was sure, would damn any production known to come from the pen of the present writer. Time, however, has shewn that he had not given umbrage to any set of men whatever. In political controversy he had not meddled for a number of years, and he takes this opportunity to declare, that in his whole life he never was the author of one clandestine line. Whatever he writ, he had the spirit and honour to avow it. Mr. GARRICK was told this, but without effect: the play was thrown back upon the author's hands, he submitted to it, and would have consigned all the circumstances of that transaction to oblivion, if the same policy had not been practised upon him, in another inftance, this very winter.
+That ALZUMA has at length appeared, is owing to the friendship of Mr. HARRIS. He desired to draw forth the piece from the author's closet: Mr. COLMAN accepted it with great frankness; and from that instant went right forward without delay, without duplicity, without equivocation. The author takes this opportunity to thank all the proprietors of Covent Garden Theatre for the fairness of their dealings: His thanks are also due to the performers for their assiduity in preparing the play for representation. The rest is before the public: Mr. BENSLEY and Mr. HULL did justice to their respective characters: Mr. SMITH's exertion of distinguished merit is well known. Miss MILLER struggled even in illness for the public favour, and Mrs. HARTLEYS' beauty and elegant performance adorned every scene, in which she appeared.
+The Author cannot conclude without declaring, that (exclusive of his late transaction with Mr. COLMAN) he has every reason to be disgusted at the internal occurrences of a theatre. It is, therefore, probable that he shall never again be a candidate for Theatical Fame: From the farce of the APPRENTICE to the tragedy of ALZUMA his endeavours have at all times met with a most generous reception from the Town: He feels the obligation with the warmest sensibility, and remains with due respect to the PUBLIC,
+Their most obedient humble servant, ARTHUR MURPHY
+Lincoln's-Inn,
+Feb. 27, 1773.
+PROLOGUE.
+Spoken by Mr. BENSLEY.
+WHEN first COLUMBUS left the Spanish shore
+In western climes new regions to explore;
+Soon a new world, beyond the Atlantic main,
+Disclos'd the wonders of it's vast domain;
+A race of men unletter'd, and untaught,
+Strangers to science, yet with virtue fraught.—
+No school they had of philosophic pride,
+And simple reason was their only guide.
+That reason in the paths of nature trod,
+And worshipping the Sun, they meant a God;
+Free from the ills in polish'd life that spring,
+And gold with them was a neglected thing.
+But Europe's sons felt gold's resistless sway
+To the new hemisphere they bend their way;
+Through ev'ry region carry sword and sire,
+And bigot rage and avarice conspire.
+Zeal bore the cross and poniard in it's hand,
+And massacre unpeopled half the land.
+Yet to unhappy men, to heroes slain,
+The British muse denies her tragic strain.
+Dryden alone let fall the gen'rous tear,
+And bade on Albion's stage the FEATHER'D CHIEFS appear.
+His voice suppress'd, no bard their fate has sung,
+Silent our scene, and mute each tuneful tongue;
+While GREECE and ROME swell'd our theatric state,
+And only classic heroes could be great.
+This night our author, an advent'er grown,
+Dares trace the virtues of the Torrid Zone.
+If in his scenes well painted passion glow;
+If there you view the draught of human woe;
+Britons will mark, from fierce religious zeal,
+What dread calamities weak mortals feel;
+Will hear the INDIAN—tho' in error blind,
+Against the pow'r that would opinion bind,
+Assert the freedom of the human mind.
+Ye critics, to whom poets must be civil,
+As Indians worship, out of fear, the devil,
+Of mod'rate principles you'll own the merit,
+Nor hither bring a persecuting spirit.
+Let modes of wit some TOLERATION share;
+Rome KILLS for error;—Be it yours to spare.
+Dramatis Personae.
+ALZUMA,
+Mr. SMITH.
+PIZARRO,
+Mr. HULL.
+DON CARLOS,
+Mr. BENSLEY.
+OZMAR,
+Mr. PERRY.
+GONZALEZ,
+Mr. GARDNER.
+EZMONT,
+Mr. THOMPSON.
+ORAZIA,
+Miss MILLER.
+ORELLANA,
+Mrs. HARTLEY.
+Virgins of the Sun,
+Miss
+PEIRCE,
+Mrs.
+WILLEMS,
+Miss
+WEWITZER,
+Miss
+BROWN,
+&c.
+Scene at CUSCO the Capital of PERU.
+ALZUMA.
+ACT I.
+Enter
+EMIRA.
+WEARIED at length by their own raging toil,
+Her spirits sink to rest: kind sleep affords
+The only boon the wretched mind can feel,
+A momentary respite from despair.
+Enter
+ZILIA.
+Who's there?—That look alarming!—Zilia, say
+Wherefore this sudden haste?—How fares it now
+With Orellana?
+Still a calm repose
+Suspends the tumult of the mighty passions,
+That war within. Nature quite harrass'd down
+Repairs the waste of grief.
+But oh! too soon
+With keener sense to waken her again
+To the strong agonies that rend her soul.
+How wears the night?—
+It verges to the dawn.
+Then 'tis th' accustom'd hour, the only hour
+Of all that circle time's diurnal round,
+When Orellana knows suspence from pain.
+The sun that form'd her, lent his brightest rays,
+His purest elements of sacred fire.—
+Hence all the virtues that but dimly shine.
+In breasts of common mould, in her sublim'd,
+Burn to a fierce extravagance of soul.
+Yet what avails the great indignant spirit,
+The gen'rous flame for Freedom and Peru?
+The fever of her mind too soon must end
+Her weary frame.—The live-long day it rages,
+And each returning night,—when all things else
+Thro' wide creation's round feel wonted rest,
+She only wakes to misery:—Forlorn she sits
+With streaming eyes, while unrelenting cares
+Waste all within; and ever and anon
+In short distracted dreams wild fancy acts
+New scenes of terror in her blasted mind.
+Enter
+ORELLANA.
+Horror! Protect me! Save me;—Seas of blood
+Run purple round the altar—'tis my brother—
+Barbarian hold!—It is Alzuma bleeds—
+Inhuman murd'rers! Oh!
+Faints.
+'Tis ever thus:—
+Sad visionary terrors rack her brain,—
+Too wretched mourner, victim of despair!—
+Oh! 'tis too much, too much to suffer—Zilia,
+Art thou there?—Ever friendly, kind, and good!—
+Emira too!—why, sister virgins, why
+Must you still labour with my weight of woe?
+Attending thee we but obey the call
+Of duty and of love.—Dispel thy fears,
+And hush this tumult of disorder'd fancy.
+Would heav'n I could!—But these imaginings
+Were terrible indeed!—Round yonder couch
+Such horrid phantoms rose.
+Forget 'em all—
+You've nothing now to fear.—
+Alas, the wretched
+Have ev'ry thing to fear—Methought Pizarro
+With fury dragg'd me to the altar's foot;
+There urg'd imperious to renounce my gods,
+And wed Don Carlos; with apostate zeal
+My mother join'd her aid;—conspir'd against me;
+When, oh! distracting sight! my brother, rushing
+To save a sister from the vile dishonour,
+Receiv'd Pizarro's dagger in his heart.—
+The altar smoak'd with gore;—the cruel Spaniard
+Look'd a grim joy to see the only hope
+Of desolate Peru,—a Prince descended
+From a long race of Kings, ignobly fall,
+And welter in his blood before him.
+Yet,
+These are but fancied ills—Alzuma lives
+Safe in obscurity, far hence remote.
+Prostrate Peru may lift her head again,
+And heav'n restore a brother to your arms.
+Delusive thought! Yet let me fondly cherish
+The soothing flattery.—Oh! Sister virgins,
+Should e'er the hero bless my longing eyes,
+I could embrace him with a sister's love,
+And in his sight forget my sorrows past.
+But oh! vain hope!—He would not know me now
+Thus with'ring in my bloom—As yet an infant
+number'd scarce ten years, when hence he went
+To Chili's realms, ere the foe burst upon us,—
+To learn the course of ev'ry orb above,
+And all the myst'ries of his parent sun.
+Mean time the Spaniard—but I'll not retrace
+That tale of horror.—Since that hour accurst,
+Ten times the sun hath made his annual circle,
+Nor yet Alzuma reigns!—Alas! my virgins,
+Distinction's lost amongst us, and the last
+Surviving Inca of undone Peru
+Sinks to a slave,—a wand'rer o'er the land!—
+Rekindle not the fury of your soul—
+For lo! with purple light the orient morn
+Glows in yon Eastern clime!—Don Carlos soon,
+As is his wont, with early importunity
+Will press his ardent suit. Be timely cautious,
+Nor let him find pale grief and discontent
+For ever dwell in Orellana's breast.—
+'Twill rouze the Spaniard's rage—a cloyster'd virgin
+With thee, I worship'd the eternal fire.—
+'Tis friendship prompts, if I presume to wish
+You'd not provoke the foe.
+I know thy truth,
+Thy constancy approv'd;—and Carlos too
+I grant has qualities that claim respect.
+Tho' other gods he worship, yet in him
+Religion wears a gentler mien, nor serves
+To sanctify rapacity and murder.—
+'Tis love perhaps,—for sure he fondly loves—
+'Tis love perhaps,—not virtue,—that allays
+His fiercer passions,—but whate'er the cause,
+He is our shield from stern Pizarro's rage:
+To him unnumber'd millions lift their hands,
+And thank him with their tears for life preserv'd.—
+'Tis true, Emira—oft I've known him check
+The rage of wasting war—oft at his voice
+Ev'n Persecution rests upon her altar,
+Thirsting for blood in vain.—And yet this heart
+Was never form'd for him—yon radiant God,
+Tho' each revolving day he rise to view
+His once lov'd region, now a land of slaves,
+To see the Spaniard triumph in his guilt,
+Nor rolls th' avenging thunder o'er his head,
+Nor sends the rapid light'ning down to blast him,
+Tho' he disdain not still to shine alike
+On vice and suffering virtue—Ha! no more—
+'Twere impious madness—thou creat'st us all,
+Thou glorious luminary!—Thou the source
+Of light, and life, and universal good!
+From thee we issue, and to thee return!
+Thou mighty parent!
+(kneel down)
+Thou bright orbit, Thou
+Still inexhausted lead'st the radiant years,
+Thro' all creation pour'st thy golden flood,
+Thy vivid energy—without thee nought
+Or fair, or useful springs—to thee all nature
+Wafts up her orisons;—to thee I swear
+Whate'er shall prove the fate of Orellana,
+Thy sacred beams shall never,—never see her
+Leagu'd with her country's foes; shall ne'er behold her
+A vile apostate from her holy vow.—
+Enter
+EZMONT.
+Ezmont, why sudden thus—and hark! unfold—
+A flourish of trumpets.
+What means that musick, that triumphant joy?
+With early zeal Pizarro seeks the altar
+To celebrate his foreign rites.—
+And fire
+His unrelenting heart to new exploits.
+A captive band from various prisons led
+Walk in his train, and follow to the temple,
+There to abjure their country, and their gods,
+Or meet their instant doom.—
+And does my mother
+Attend the guilty pomp?
+She does—with her
+All their whole courtier-band attend Pizarro,
+All but Don Carlos;—with a lover's speed
+This way he bends his steps;—my swiftest zeal
+Could scarce outstrip him.—
+Leave me virgins, leave me—
+Ezmont I thank thy care.
+(they go out.)
+Now summon all
+Thy calmest patience, and thy firm resolve.
+Enter
+DON CARLOS.
+Let this auspicious morn dispel thy cares,
+And each successive hour on balmy wings
+Bring peace, bring health, and beauty's roseate bloom;—
+Does Orellana shun me?—hither turn
+Thy gracious aspect; let those azure eyes
+Beam with their gentlest radiance.—
+Those eyes
+With galling tears have long since lost their lustre—
+They, like the daughters of rapacious Spain,
+Have not yet learn'd to gild the cloud of woe,
+Inspire the look, and animate the glance,
+While misery lays desolate the heart.
+Let love diffuse his cordial o'er thy spirits
+Soon shall each grace awaken, soon thy heart
+Beat sprightly notes of rapture and of joy.
+Oh! talk not, Carlos, to a wretch forlorn,
+And lost as I am,—do not talk of joy.
+No more shall pleasure visit this sad form,
+This breathing statue of despair.
+Despair
+But ill requites th' indulgent care of heav'n,
+That now invites thee to enjoy with me
+Your share of love, and empire.—
+Take again,
+Take back your vows of friendship and of love.—
+I do entreat you take'em—bear'em hence
+To the bright dames that grace your native land—
+Worthier they'll listen to you—they have hearts
+Prone to thy soft impressions—they have hearts
+That never bled to see the ruthless sword,
+Thy sword,
+Don Carlos,
+lay their country waste;—
+Thou hast not injur'd them;—but oh! respect
+A captive wretch,—a wretch that has full cause,
+Yet pours no curses on thee!—
+Wilt thou thus,
+Relentless fair! wilt thou then wound me thus
+With stern reproach?—Under a father's banner
+I wag'd the war; and if her purple wing
+Propitious victory wav'd o'er my head,
+The world can witness, who by me have fall'n,
+All bravely fell in the embattled field,
+Not naked and disarm'd—In me the vanquish'd
+Have found a friend—'T was
+Orellana's
+will.—
+Her conqu'ring eyes have half aveng'd her country,
+And made the victor beauty's willing slave.
+His laurels bloom for thee;—he lays his trophies,
+His scepter at your seet—thy native realm
+Wooes thee to sov'reign sway, and bids thee rule
+The western world, when to her softer clime
+Spain shall invite thy mother.—
+Name her not—
+I would not think upon her crimes—become
+The conqu'ror's wife,—oh! shameless guilt!—become
+The frantic votarist of Spanish gods,
+She fires his haughty soul to tenfold rage.—
+This day prepares new victims—oh! my Lord,
+If your religion does not quite suppress
+The voice of nature, save the lives of wretches;
+Plead thou their cause;—let me not see again
+The streaming blood of innocence.
+I move
+By thy command alone; and oh! bright maid,
+The pity I extend, will surely claim
+The soft return of thine.
+Alas! My Lord,
+Much I esteem thy goodness; much I honour
+Thy many virtues—but a holy vow
+Forbids my love; and tell me, should I grant it,
+Would'st thou receive an interdicted wretch,
+With counterfeited smiles to thy embrace?
+Believe me, sir, who dares renounce her gods,
+Will dare be false to man.
+Enter
+PIZARRO, ORAZIA,
+attendants,
+&c.
+Come near my son,
+Thou seest thy father with assiduous care
+Spreading the glories of his king and God
+O'er this new world.
+My father's fervent zeal
+Shall stand time honour'd in the rolls of fame.
+Vanquish'd Peru thro' all her cities mourns
+Thy vast renown in arms; it now were time
+That weary conquest should abate her rigours,
+And peace begin to harmonize the world.—
+As yet, young warrior, our untutor'd race
+To thee is little known—an Indian mind
+Is wrapp'd in errors mist's; from fabling priests
+Hears impious legends; in each falling show'r,
+Each cloud that sails upon yon azure deep,
+Conceives the present deity; in dreams,
+Which fever'd fancy forms, still thinks it hears
+Loud oracles, commercing with its gods.
+The Daemons and the human faculties
+Are then in dark conspiracy, and all
+Is bigot rage, and cruelty and horror.—
+This gloom must be dispell'd; and force, my son,
+'Tis force must execute the holy work.
+And think we then our duty unperform'd
+Unless we imitate with furious zeal
+Heav'n's vengeance, not it's mercy?
+Justice calls
+For vengeance on a blind offending world.
+I know my mission here—beneath the tropic
+The holy cross I've borne, and in that sign
+Pizarro still shall conquer—be it mine
+To stretch the ray of truth, and bid the Indian
+Kneel and adore!
+Almagro's conqu'ring arm
+In Chili's realm hath crush'd the savage war.
+The western world hath heard the hideous ruin,
+And suppliant courts the yoke.
+But still Alzuma
+Lives for new tumult—
+Lives to bid his mother
+With tears and burning blushes hear his name.
+Proud, uncontroulable, and fierce of spirit;
+Ev'n in his earliest youth, his boyish days,
+When the grim tiger from the thicket rush'd,
+Did he once fly?—Did he not ev'n then
+Dare the encounter?—the fell monster gor'd
+His youthful breast, and if his father's arm
+Had not transfix'd the savage to the earth,
+Alzuma then had died.—Since that he bore
+The tiger's mark, and ere the down of manhood
+Sprung on his cheek, went from his mother far;
+Grew up implacable of soul, and now
+With dire alarms shakes all the Western World.
+And if our crimes provoke—
+Our crimes, my son!
+That thought to Orellana owes its birth;
+In soft captivity she holds him bound;
+Her beauty leads him with a single glance,
+Moves with a sigh and softens with a tear,
+And love and grace by turns dispute his heart.
+Hear Orellana—say, thou beauteous mourner,
+How long shall tears and slow consuming grief
+Deform thy native graces?
+Pardon, Sir,
+If the rough manners of my native clime
+Form'd me in plain simplicity—unskill'd
+In all the studied elegance of feature,
+I only know to look my honest meaning;
+An artless savage, a forsaken wretch,
+Whom joy has long forsworn!—
+In Cusco's court,
+Where ev'ry face but thine is deck'd with smiles,
+Such persevering sorrow ill besits
+Orazia's daughter—while your mother still
+Ev'n with the victor shares her ancient sceptre,
+You have full cause of joy.—And tell me, does not
+That gen'rous youth, Pizarro's gallant son,
+Breathe gentlest vows, and languish for your love?
+Ay, Madam!—Love and tenderness he brings,
+But sighs and tears are all I have to give.—
+Away with vain excuse—thou trifler hear;
+Spain's pure religion calls—this moment yield,
+And rank thee with the faithful.—
+That command—
+Must be obey'd.
+Alas!
+ull well you know
+Force has already dragg'd me to your altar;—
+There while the censer wreath'd its fragrant clouds,
+While pealing organs swell'd the solemn note,
+And through deep lengthen'd isles consenting choirs
+Harmonious hymn'd their god,—not to your heav'n
+My pray'rs were offer'd—No! ye holy pow'rs
+Whom long Peru hath worshipp'd,—in that hour
+You rush'd between me and their Christian pomp,
+Bore my rapt soul to your own orbs on high,
+And shrines, and burning lamps, grew dim before me.
+Enter
+GONZALEZ.
+Invincible in ignorance.
+My Lord,—
+The slaves remain obdurate.
+Ha! reject
+The terms of proffer'd life!
+Their eyes intent
+Gaze on two leaders, from whose fierce demeanour
+They gain new courage, obstinate in guilt.
+Their chiefs, by my command, attend your presence.—
+Enter
+ALZUMA,
+and
+OZMAR.
+Say, what art thou, who with indignant spirit
+Has dar'd to mock our laws?
+One born in freedom!
+One, who while yet he lives, like frecdom's son
+Will dare to think.—
+Reflect, rash youth, and take
+New life from this auspicious day.
+The day,
+That sees a man crouch in ignoble bondage,
+Sees ev'ry virtue lost.—
+Beware, thou slave!
+Know'st thou that instant death awaits you both?
+We know it—we expect it—we invoke it—
+'Twill end our misery.
+Thou insolent!—
+All gracious heav'n, that still delights in mercy—
+Mercy!—delights in mercy!
+Yes;—his word
+Gives life and peace to all—
+And darest thou then,
+Thou fell destroyer!—Ravager of earth!
+And dar'st thou then in horrid contrast stand
+To infinite benevolence?—
+No more
+I'll parley with obdurate guilt—Gonzalez,
+Guard thou those miscreants; see they suffer death,
+And by their torments warn an impious race.—
+Exit with Orazia, and attendants.
+Oh! Carlos—gen'rous youth! If any spark
+Of love dwell in thy nature, quickly fly,
+Pursue your cruel father, haste, prevent.
+The horrid murder—what have they committed?
+What is their crime?—Oh! do not see them bleed,
+For daring to be true to heav'n.
+I go,
+Thou gen'rous maid, to execute your will.
+Exit.
+Or gain their liberty, or else the hour
+That sees 'em fall, will end this wretched being.
+(
+Exit after Carlos.
+And are there feelings here for human woe?
+Guards, lead your pris'ners hence.
+Spaniard a word.—
+Wilt thou indulge one moment to the wretched?—
+I thank thee—Ozmar, we have walk'd together
+The rugged paths of honour;—to the last
+Grappled with fate,—against the foe have strain'd
+Bold virtue's nerve;—Oh! let it never slacken,
+But bear us strongly up like men, who boast
+Souls ever prompt for liberty or death.
+Sunk as we are, our country bleeding round us,
+Our cities sack't, our very gods dishonour'd,
+Death is relief, is victory and triumph.—
+But let us entertain our doom, my friend,
+In silent dignity:—Amidst our pangs
+Let no dejected passion tell the Spaniard,
+Alzuma dies in me!—
+Not all the tortures
+Their vengeance can inflict, shall e'er extort
+One secret from me.
+Let him shudder still
+With dire conceptions at Alzuma's name;
+Still let him think Alzuma roams the forest,
+Climbs the steep mountain's brow, or down the lake
+Glides in the swift canoe to rouze the war,
+And call the nations to a great revenge.
+Let that pursue him still—Oh! let that thought,
+And the dire furies of detested guilt
+With ceaseless pangs inhabit in his heart.
+Alzuma dies content!—
+The tyrant's pow'r
+Is short liv'd o'er us, and his murd'rous rage
+But sets the hero free.—
+His pow'r may shackle
+These mortal limbs; but the unbodied spirit
+Shall bear its native liberty along,
+To the bless'd vale behind the cloud capt hill,
+The silent region of departed souls,
+That region undiscover'd by the Spaniard!—
+Where our forefathers in unfading bliss,
+Prepare the roseate bow'r, and weave the chaplet,
+For deeds heroic done in life; for all,
+Who firm in honour, by distress unconquer'd,
+Have smil'd in woe, and to their graves have carried
+The sacred charter of the free born mind.
+END OF THE FIRST ACT.
+ACT II.
+Scene at the Gate of the Church, or Temple of the Sun.
+Enter
+ALZUMA.
+DOST thou not hear me, lost Peru?—Not hear
+The clank of these vile chains that fetter thus
+Your rightful sov'reign?—Wherefore thus again
+Led to their Christian temple?—Why their guards
+Plac'd at each pass?—Is this, just gods, a lot
+For your own progeny?—Yet even here,
+Here still is room for fortitude and honour.
+Yes, ye calamities of this bad world,
+Pour all your destin'd malice on my head!
+Ye storms, ye tempests roar! Each change of fortune
+Is but a change of virtue.—
+Enter
+OZMAR.
+Valiant Ozmar,
+Let me embrace thee—Ozmar, spite of all
+My heart's best firmness, it drops blood for thee.
+Alzuma! Tears!—And dost thou think me then
+So poor of soul?—
+Ozmar, I will not weep.
+I will not stain a righteous cause with tears.—
+And yet frail nature thus will gush it's way.
+Oh! there's a cause that consecrates each drop
+That burns it's channel down the soldier's cheek!
+Ozmar, to see a nation bleeding round us,
+Yet fetter'd thus in chains—I cannot speak—
+Thy own great heart will tell thee.—
+Gen'rous Prince!
+Embitter not the cup of woe.—
+To die
+Inglorious! Unreveng'd!—My father's death,
+Thy savage massacre, lamented shade!
+Oh! Atabalipa, yet unatton'd!
+His queen Orazia, my much honour'd mother,
+How has fate dealt with her?—My sister too,
+Poor Orellana!—'Tis a long, long time
+Since last these eyes beheld her.—Breathes she still
+The vital air?—And oh! what happy clime
+Affords her innocence and truth a shelter?
+Alzuma knows not, and that piercing thought
+Unmans my soul, and gives a sting to death.
+The holy pow'rs, who watch o'er innocence—
+No pow'rs protect it now.—Where were ye, gods,
+In that black period when the Spanish spoiler
+First spoke in thunder to us?—Not your own
+Thrice honour'd temples then contain'd ye!—No!
+Your sacred temples, and your holy altars
+You left defenceless.—You have lost your rites,
+Your kings their empire, and Peru her freedom.
+If deeds heroic could have sav'd the state
+Thy own great patriot toil—
+Where were ye, gods,
+When late in Chili's wide extended plains
+I sought the embattled foe?—From ev'ry quarter
+I brought the western world in arms.—The sun
+Beneath the burning line beheld my course,
+Back to the Tropic saw my rapid march;—
+The queen of night and ev'ry vivid planet
+Walking in brightness their empyreal round
+Saw my unwearied labour—saw me guide
+Down the broad Amazon my rapid bark,
+Each island visiting; on ev'ry shore
+Invoking vengeance; heav'n beheld it all,
+Yet left me in th' extreme, to hostile gods,
+Th' unjust, revengeful, cruel gods of Spain,
+Betray'd a faithful unsuspecting race.—
+Yes, all, all's lost, all ruin'd!—That last battle
+Has giv'n 'em up the world—Almagro's arms
+Heap'd hideous ruin on us—
+Ozmar there,
+There liberty amidst that purple heap
+Her gen'rous bosom, grac'd with honest scars,
+Groan'd and expir'd.—Oh! City of the Sun,
+Ye sacred ashes of my friends, who perish'd
+In your lov'd country's last expiring blaze!
+Oh! seat of empire!—Witness in your fall
+I have dar'd nobly for you.
+Enter
+GONZALEZ
+and Guards.
+Be those chains
+Instant releas'd, and set the pris'ners free.
+Soldiers unchain them.
+Ah! that soft virgin form appears again!
+This way she bends her steps.—What may this mean?
+Enter
+ORELLANA.
+There is your warrant, Sir,—Pizarro's hand
+Hath sign'd their freedom!
+I obey the mandate.
+Exit with soldiers.
+Tell me, thou fair unknown! To what new scenes
+Our fate reserves us both?—
+Humanity
+And justice plead your cause.
+And does thy heart
+Feel the soft touch of nature for the wretched?
+Stranger, my heart is feelingly alive
+When misery claims a tear—that fruitless tribute
+Is all I can, and heav'n demands it of me.
+I pray ye mock me not—a Spaniard's heav'n
+Inspires revenge, and cruelty and murder.
+In me you see a daughter of Peru,
+And nature and religion bind me to you.
+Then our own gods watch o'er affliction still,
+And at their hands I do accept my life.
+Oh! Gen'rous virgin, I respect thy virtues—
+The pow'rs that gave them, will reward them too—
+If not, in ev'ry state, in death or conquest,
+They are their own sweet recompence.
+That mien!
+That prompt heroic ardor!—Stranger, say
+Whence and what art thou?—
+By my birth obscure:—
+Almagro late beheld me grasp the javelin,
+And 'midst the gen'ral carnage of that day,
+Seek death in vain thro' all the paths of war.
+Ah! tell me then?—I tremble while I ask—
+Where is Alzuma?—Lives he.—Does he yet
+Elude the tyrant's search?—Or has he sought
+The vale of fleeting spirits?—Quickly tell me,
+For oh! I long to hear—
+Support me, Ozmar—
+Her tender sympathy—
+Now summon all
+Your manly firmness.—she's a stranger yet—
+Let prudence guard thee—
+Ah! distract me not—
+Why art thou pale!—Why gath'ring in thy eye
+Stand those round drops?—Alas! he is no more—
+Alzuma lives!
+Lives!
+But far hence remote
+Seeks a retreat for misery and freedom—
+Then am I bless'd indeed!—
+Absorb'd in wonder,
+My flutt'ring soul feels all her functions lost.
+Weep'st thou, brave youth?—Ah! Say what hidden cause—
+Thy gen'rous tenderness.—Like you I'm born
+With too much sensibility of heart.
+Indeed you seem to bear a noble nature—
+Say will you undertake like men, and dare
+A hardy enterprize, that tends at once
+To your own safety and the general weal?
+Speak thy intent.—Ev'n ruin'd as we are
+We boast the virtue still to serve thy cause.
+Then mark my words—anon, when in the palace,
+All court the Spaniard's smiles, and do the work
+Of low ambition, then with cautious step
+Repair ye both to yonder sacred temple,
+In happier days the temple of the Sun!
+Now other worship, other rites prevail.—
+Employ'd in secret duty there you'll find me.
+Enter
+GONZALEZ.
+What would Gonzalez?—
+With determin'd haste
+The empress seeks you.—
+Lead your captives forth.—
+They bow and are going out.
+Enter
+ORAZIA.
+These are the insolents whom thy entreaty
+Has sav'd from justice.
+To Don Carlos' goodness
+I bow in gratitude.—
+Take heed, rash men,
+Or vengeance waits you—
+(
+they go out.
+)
+Orellana hear.
+Don Carlos languishes with gentlest passion,
+And wooes you to his arms.—A mother's voice
+Commands thee to abjure fictitious gods,
+And make thee lineal to our ancient sceptre.—
+What, while my brother lives!—
+Pizarro sees,
+At length with indignation sees his slave
+Suspend the progress of our righteous faith.
+His slave!—A robber's flave!—Is that befitting?
+Is that my mother?—These are virtue's tears—
+They mean you no offence.—
+Ungrateful child!
+Still with incessant rage to steel your heart,
+Against a victor, whom high Heav'n approves,
+Against a mother, who would save you still.
+The tyrant has my curses—I avow it—
+My bitterest imprecations on him!—But
+A mother claims respect—Then hear my pray'r—
+Let not your Christian worship, while it gives
+New modes of faith—Oh! let it ne'er efface
+The virtues of humanity—
+Exit.
+Oh! blind,
+And fatal superstition!—fix'd in error,
+Alas! she sees not that by heav'n commission'd
+To chase credulity Pizzaro came,
+And reigns by right divine o'er ev'ry heart.
+Oh! happy state! Christian Orazia now
+Glows for the honour of eternal truth,—
+To that bows rev'rent down, and joys to see
+Awful religion bear the sword of justice.
+Exit.
+Scene the Temple of the Sun.
+Enter
+ALZUMA
+and
+OZMAR.
+Tread you not, Ozmar, with a solemn fear
+This hallow'd pavement?
+As I trace thy steps,
+A thousand mix'd emotions heave within me.
+Thou sacred dome! Thou venerable pile!
+Where erst the pious daughters of the Sun
+In meditation dwelt, and sacred song!
+No more for you those rites—no more you'll hear
+Their pious vows, and their melodious strains.
+The Spanish robber violates your altars,
+And foreign gods possess you.—
+Yet, Alzuma,
+Who knows what that bright maid.—
+Some deep intent
+Rolls in her bosom—hark!—a feeble sound
+Comes slowly winding thro' yon lengthen'd isle
+Musick is heard at a distance
+It gains upon the ear—and lo! a train
+Of supplicating nymphs—ye host of heav'n!
+Our own solemnities! how my heart glows
+With pious ardour! Let us hence, my friend,
+Lest we intrude upon their virgin choir.
+They retire.
+Enter
+ORELLANA, EMIRA, ZILIA,
+and other Virgins. An Image of the Sun, the Moon, &c. in their Hands, a Censer of Fire, and some strewing Flowers.
+ODE.
+I.
+Bright orb, that rul'st th' aetherial way,
+And pour'st the radiant flood of day;
+Thou sister regent of the night,
+Who shed'st o'er all thy sober light;
+Ye stars, that gle
+from pole to pole;
+Ye thunders o'er our heads that roll;
+Ye lightnings, rains, ye storms on high,
+That speak the present deity;
+Hear your own servants; hear our virgin throng;
+Oh! save Alzuma—hear our mystic song.
+II.
+Ye band of venerable just,
+Ye warriors long since laid in dust;
+Whether in silent groves ye stray,
+Glow in the stars or solar way;
+Assemble all ye mighty dead,
+And stalk around the Spaniard's bed;
+In his fell heart with dismal yell
+Awaken all the fiends of hell;
+Assist Alzuma; arm each honest hand,
+And tear a guilty tyrant from the land.
+They go out in procession.
+Enter
+ALZUMA
+and
+OZMAR.
+For me their vows ascend!—the pious train
+Warble their orizons for lost Alzuma!—
+Oh! Ozmar, Oh! my friend!—the melting notes
+With thoughts that burn expand my glowing soul.
+Ha! that sweet maid approaches!—
+Enter
+ORELLANA.
+Now be hush'd
+Each sudden transport—to disclose thy name.
+Might fatal prove.
+Alas! my spirits sink—
+Cold tremors shake my frame.—
+Your pardon, virgin,
+That thus encroaching on the hallow'd hour—
+Strangers! you're welcome both—the wretched ever
+Bear their own passport to me—train'd myself
+In sad affliction's school, and wanting much
+Some charitable aid, these hands are ready
+To wipe the tear from the pale cheek of care.—
+Alas! misfortune, as we rise to life,
+Prepares her chalice for each human lip:
+We all are doom'd to weep.—
+Ye gen'rous youths,
+I see you both are apt to melt at woe.—
+I will not trouble you—
+If there is aught
+May serve you, virgin, trust your faithful slaves—
+These tears but strengthen virtue—speak thy will.
+There is a business lab'ring in my heart
+That calls for firmest vigour.—
+If to drench
+A dagger's point in the fell Spaniard's blood—
+It wants no bloodshed—tell me will you serve me?—
+By heav'n I will—
+Say will you traverse o'er
+The forests wild and continents of sand,
+To bear a message to a much lov'd brother,
+On whose dear life my happiness is grafted?
+Direct our course—we'll seek him straight.—
+Alas!
+Banished far hence, dear youth! He little thinks
+How here I drag the Spaniard's galling chain,
+And neither live nor die.—But here I've form'd
+In braided colours the sad tale of woe—
+Takes out a braid of colours.
+He knows not letters, which th' inventive Spaniard
+Has hither brought—But this will tell him all—
+This will instruct him to avoid this place—
+Let me be wretched, I'll endure it all—
+But bless him gods—watch over all his ways—
+My woes must end me soon.—
+No, thou shalt join
+Our flight—we'll bear thee to him—
+Weak of limb
+My strength would fail me—wilt thou give him this?
+I will—by every Pow'r above, I will.
+Then take it, youth, and bear it to Alzuma.—
+Alzuma!—
+Yes; to him.—
+Ye gracious powers!
+And bear it to Alzuma!—Orellana!
+Those trembling accents! Oh! the various meanings
+Of ev'ry feature—Ah! that look of thine—,
+I am, I am, Alzuma—Oh! my sister!
+I, I am he—this fond embrace attests it.
+She faints—she faints—Oh! couldst thou e'er have hop'd it?
+'Tis Orellana!—'tis, it is my sister.
+That air! that face! just so my father look'd!—
+I scarce can think it yet—thou art not—tell me—
+Say art thou he?—Peru's surviving heir—
+Art thou Alzuma?—does thy breast retain
+The tiger's fang?
+It does, it does—
+Have I so long
+Forbore to wander o'er him with my kisses?—
+To clasp thee close, and own thee with my tears?—
+Embraces him.
+Grow to thy brother's heart, thou virtuous maid!—
+Ozmar, the Gods are here—they have not yet
+Deserted innocence.—Thou watch, my friend,
+That none intrude upon this hour of joy.—
+Exit. Ozmar.
+Why didst thou venture here? to this dite place?
+Oh! quickly fly—of all the Sun beheld
+In his own city, by immortals rais'd,
+This temple only stands.—
+Where is Orazia?—
+She lives.
+Then to her honour and her gods
+She still lives true—I know her virtue well.—
+This side the grave no mortal virtue's known;—
+She's married to Pizarro.
+Married to him!—
+False to her faith, and married to Pizarro!—
+She shares his tyrant sceptre.—
+Oh! may heav'n—
+Yet she's my mother still—forgive her gods!
+If your dread sway can bear such crimes, forgive her,
+And keep your red'ning vengeance for the Spaniard—
+Say shall I see Orazia?—
+At yon portal
+You met her dreadful frown.
+Was that my mother?—
+Unnatural woman!
+In her ruin'd mind
+Sits blind enthusiasm with'ring ev'ry virtue.
+Zeal forges fetters for a free-born race,
+And murder's blade gleams in religion's hand.
+Bright orb! thou hear'st it—I make no appeal
+To you against her—but to find thee thus,
+Thou best of sisters—'midst a mother's crimes
+That rend my soul—it mixes tend'rest joy,
+And makes these tears a transport. Tell thy brother,
+What force upheld thee?—how hast thou sustain'd
+Thy faith inviolate?—
+The Spaniard's rage
+Lists ev'ry passion on the side of virtue.
+Thou wer't far hence, know'st not the horrid night,
+That heav'd this mighty empire from its base.
+Ev'n now I shudder for thee!
+Cloyster'd here
+Two hundred chosen virgins of the Sun,
+Here in this very temple pour'd their praise
+In midnight harmony to ev'ry god,
+And bore thro' glimm'ring isles th'eternal fire;
+When the foe rush'd upon us; burst the sanctuary
+Which since the world's foundation 'till that hour
+Man never dar'd profane—with virgin shrieks,
+And female lamentation rung the dome;
+Devouring rage, and pale dismay, and death
+Ran wild in horrid forms; the crimson pavement
+Floated with gore;—no check their fury felt,
+'Till weary slaughter stopt at last for breath,
+And spar'd a wretched few.
+Thou virtuous maid!
+What pitying God preserv'd thee?
+'Twas in wrath,—
+In vengeance I was sav'd—to greater ills
+Alas! reserv'd!—to see my father murder'd—
+Oh!—blessed be his shade!—
+E'er since Pizarro
+Urges to change my gods, and join his son
+In impious wedlock—
+May his soul be plung'd
+In ever burning floods of liquid gold,
+And be his avarice the fiend that damns him!
+Music heard.
+End we our conf'rence here—the virgin band
+Wait my return—I would not have thee known—
+Retire my brother—
+And must we part so soon?
+Alas! too sure we must—a faithful friend
+Shall lead thee to the grove where oft I walk
+In bitterness of soul.
+Yet e'er you go—
+Here kneel, and swear by all the holy pow'rs
+Whom with firm constancy Peru adores,
+By the dear shades of long departed heroes,
+Whom av'rice slaughter'd, or religion stabb'd,
+Swear here, by all those great, those awful sanctions,
+Thou never wilt betray thy plighted vows.
+Yes, Orellana ratifies the oath!
+Now once again come to this fond embrace.
+We'll meet anon—
+We shall—
+Farewell, farewell!
+She goes out.
+Protect, ye pow'rs, that struggling innocence.
+In your own holy cause she suffers all.
+Are ye no more the gods of peace?—No more
+Affliction's friends?—If that excelling goodness,
+If she is wretched thus—yet let me not
+Like the base Christian foe, with pious rage
+Who deals destruction round, and deems his murder
+Grateful on high—Oh! let me not like him
+With horrid attributes affront my God!
+Yes, Heav'n is bounteous still—ye gracious pow'rs!
+Of you and your just ways I'll not complain.
+You've made us virtuous, and have done enough!—
+END OF THE SECOND ACT.
+ACT III.
+Scene the Temple.
+Enter
+CARLOS
+and
+GONZALEZ.
+THOU hast my thanks, Gonzalez—my fond heart
+But for thy watchful care had been the sport
+Of a fierce savage beauty.—Now I know
+The minion of her soul:—Oh! that reflection
+Shoots all the fires of disappointed love
+Thro' my distracted heart.
+Forgive, my lord,
+If I unwittingly have fix'd a pang
+That preys upon your peace.—In yonder grove
+I saw them meet in secret interview.—
+I saw them too—thy vigilance inform'd me—
+These eyes beheld them in close amorous parley,
+In ardent gaze—Beheld a peasant slave
+Familiar with that luxury of charms,
+With Orellana's charms! It fires to madness.
+I saw that wretch whom I redeem'd from death,
+At her request redeem'd—Unthinking fool!
+I saw him meet her in the conscious grove,
+Embracing and embrac'd!
+Perish the thought,
+That thus disturbs your breast—you know my lord,
+By your command I seiz'd the slave, and now
+Far other chains than those of love infold him.
+E'er long he dies—this very hour shall see him
+A Christian, or a victim to his errors.—
+The guards now lead him forth—
+Was it for this
+The tyrant fair oppos'd ev'n heav'n itself?
+Oh! at the altar's foot her lov'd idea
+Was present still, and zeal for heav'nly truth
+A tear from those bright eyes dissoly'd away;—
+But false compassion rules my heart no more.
+I saw her meet the slave—at my approach
+Fierce indignation darted from her eye,
+And straight she turn'd with high disdain away.
+Ah!—See! She comes!—Still lovely in her guilt!
+Exit Gonzalez.
+The haughty fierceness of untutor'd virtue
+Beams savage graces round her; still she must,
+She shall be mine; my heart adores her still.
+Enter
+ORELLANA.
+You have done this, Sir,—and I thank you for it—
+Think not I urg'd severity against thee—
+But oh! do justice to that gentle nature
+That governs here; that now throbs wildly for you,
+With all the soft solicitude of love.
+What has a wretch like me to do with love?
+Dost thou avoid me then, thou cruel fair?
+Dost thou avoid me?—Now I know the cause
+That made thee unrelenting to my sights—
+I know your Paramour—now know for whom
+Don Carlos' vows were all dispers'd in air;
+For years who held dominion o'er your heart,
+And made me languish at your feet in vain.
+And if I cherish'd a long hidden flame,
+Who claims a right to tyrannize my heart?
+Think'st thou a breast susceptible as mine,
+That swells with rapture if thou deign'st to smile,
+Or by a frown is tortur'd in the extreme,
+Think'st thou a heart like mine will e'er permit
+A conquer'd slave to win thy last regard?
+Oh! there's an avarice in love that claims
+Each gentle grace, each amiable air,
+Claims the noble hoard of sweets, and will not bear
+A word, a look directed to another.—
+And mean'st thou then to choak the voice of pity?
+Is that the purpose?—Know the injur'd youth,
+Whom thy fell rage but now has doom'd to death,
+Is miserable—therefore dear to me;—
+Know he is virtuous—therefore has my love.
+Thy love!—Does he possess it?—He,
+Inhuman fair!—But yet recall the word—
+Our laws that spare no infidel—
+Thou Spaniard!
+Thou fierce barbarian from a world unknown!—
+But all our sacred rites thou hast profan'd,
+And well may'st violate love's altar too.
+Come, point thy dagger at this virgin breast,
+And conquer hearts, as you would force our faith.
+You wrong me much; hear Orellana, hear
+Thy tenderest suppliant.
+Never—woman's weakness
+With pity saw you kneeling at my feet,
+And sighing fruitless vows.—But this last outrage
+Against a helpless captive—Witness gods!
+If Orellana hear this Spaniard more,
+Or listen to the tale of impious love,
+Deep down in earth may she alive be buried,
+Her spirit doom'd to wander o'er the world,
+And never reach the mansion of her fathers.—
+Your minion dies—my rage is up in arms,
+And the soft voice of love shall plead no more.
+(
+Exit.
+Barbarian go!—Ah! there's a sight indeed
+Afresh that opens ev'ry source of grief.
+Enter
+ALZUMA
+in chains.
+Oh! Let me seek thy mother, tell her all;
+With the strong eloquence of filial tears,
+I'll throw me at her feet, and in her heart,
+Lost as it is, I'll find some hidden fibre,
+Where all the mother trembles for her offspring.—
+Restrain this rage—Alzuma would not owe
+A second favour to her—She, alas!
+Is dead to nature—That accursed fiend,
+Fanatic fury, blasts each moral virtue.—
+She has pronounc'd my doom.—Let her not know
+She kills a son—Oh! let me never add
+That guilt atrocious to a parent's crimes.
+Are there no means to save thee?—
+Look not thus—
+Ennobled by thy virtues—by distress
+Endear'd:—Each glance thou send'st unmans me quite,
+And ev'n a brother's fondness akes to view thee.
+Thy goodness charms, and by each heart-string draws me
+Back to this hated world.—For thee, my sister,
+When I should boldly tread the ridge of peril,
+And dare the depth below—for thy dear sake
+I cling to life—extend my feeble arms,
+But thou no aid can'st give.—
+Distracting thought!
+Must I survive thee helpless and forlorn,
+A victim to the Spaniard's hated love?
+There lies the pang that bids these drops of anguish
+Fall in this copious stream—not for myself
+I feel—But oh! when I am gone—when fate
+Has stretch'd this body on the flinty earth,
+Who shall defend thy weakness?—Must I leave thee
+A prey to ruffian force?—Must that rare beauty,
+Shall that conspire against thee? must those eyes
+Obedient roll to a fierce conqu'ror's will,
+Inflame his hot desires, to plunge thee deeper
+In shame and servitude?
+Unpitying gods!
+Perhaps to waft thee from thy native land
+To foreign altars, and a foreign bed!—
+There is but one, one only refuge—
+Name it—
+I'll perish with thee—Lo! Behold a weapon!
+Shews a dagger.
+Ha!
+Where'er thy spirit wings it's happy flight,
+I'll hail thy triumph—Soar on trembling wing,
+And distant eye thy radiant tract of glory
+To ev'ry kindred star.—
+Relentless pow'rs!
+No other boon you've left me to bestow.
+Ah! me! they come—the fell Pizarro comes.—
+Enter
+PIZARRO, ORAZIA, CARLOS,
+Guards, &c.
+Now, Orellana, we demand compliance.—
+Provoke our wrath no more—the vested priest
+Waits at the altar; there Don Carlos' love
+And heav'n indulgent claim thee for their own.
+Unnatural, barbarous mother!
+Aside.
+For his love
+Don Carlos has my thanks—Spain will not think
+Her lustre tarnish'd, that a wretch like me
+Feels no ambition for her proud alliance.
+The gods of Spain—
+This arrogance—
+Indulge
+A favourable ear—the Gods of Spain
+Will not be jealous that no fragrance rolls
+Around their shrines from me—If error's maze
+Misguide my steps, their all pervading eye
+Will read the honest purpose of my soul,
+And mercy win the thunder from their hands.
+This wilful disobedience!—Who has taught
+The vain delusive dream?—
+That slave!—'Tis he,
+Who rules her wayward fancy.—
+Ha!—That traitor!
+Dost thou presume to spread sedition here?
+(Looking at her.)
+Oh! Thou apostate!—
+These hot burning tears
+Will burst their way—
+And does thy sullen eye
+Dart the fierce glance of treason on your queen?
+Who and what art thou?
+I've no rank or name,
+To plead my cause in thy obdurate heart.
+To your own child unnatural as thou art,
+I have no claim to mercy—
+Base reviler!
+Within the tropic all must think alike.
+Betwixt us both the sacred shaft of war
+Has long been shot, and enmity prevails
+Fierce, inextinguishable!
+My example
+May teach thee, slave, to yield to sacred truth,
+And Spain's imperial mandate.
+Thy example!
+Full well you judg'd, thou traitress to thy country!—
+To fly to gods who can forgive thy crimes—
+Ours shudder at them.—
+To the altar drag
+The impious slave.—
+Guards seize Alzuma.
+Oh! Wretched Orellana!
+Barbarians hold! Yet Spaniard ere I die
+Hear my last fervent prayer.—'Twas lust of gold,
+Not zeal for truth and love of human kind,
+That brought you to Peru.—And may that gold,
+Oh! may it prove to Spain the direful spring
+Of worse calamities than we have felt;
+May it unnerve your arm; dissolve in sloth
+Laborious industry;—ne'er let your plains
+The toiling hand of cultivation know;
+Kindle fierce war; and may some happier state,
+Whose sons with love of gen'rous freedom glowing
+Preserve their civil and religious rites,
+The foes of tyranny!—who found their laws
+On the broad base of reason and of nature;
+Oh! may that happy state, if such there be!—
+With bolder prow triumphant o'er the deep,
+Pursue you hither with avenging thunder,
+In your own harbours wrap your ships in fire,
+And bow ye down to seek detested gold
+For others uses!—Be that curse upon ye!
+His blasphemy pollutes the air—forthwith
+Give him the death he merits.—
+Once again
+Let me embrace him.—One last sad farewell
+No pow'r on earth shall hinder.
+Embraces him.
+Ha! that insolent!
+Perdition seize the slave!—Shall he enjoy—
+By heav'n this sabre cleaves him to the ground.
+Going to strike.
+Now by the vital air—by ev'ry pow'r
+That guides, impels, or melts the human heart,
+By yon bright orb of day, by your own gods,
+Enough of blood they've had—By them I ask—
+They will approve soft pity—Spare his life,
+Oh! Spare his innocence, nor murder me.
+Tear off her hold—By heav'n the slave—
+Now strike,
+Now execute your purpose—with the blow
+This ready dagger plunges to my heart.
+Hold, Orellana!—This abhorred steel
+Takes the dagger from her,
+Was never meant to wound thy tender form—
+Thou hast disarm'd my vengeance—By yon heav'n
+I would not see thy beauteous bosom gor'd
+For the extended empire of the world.—
+If ought of cruelty the pris'oner suffer,
+This hand shall set me free.—
+Dispel thy fears—
+I will not urge his fate—I will not urge
+Thee to compliance—Guiltless of his death
+I leave this temple, leave this scene of horror
+Where persecution draws th'unhallow'd sword,
+And murders for belief.
+Yet Carlos stay,
+I charge thee stay, nor dare again traduce
+A father's deeds.
+Your pardon, Sir; my heart revolts,
+And will not see that youth, whoe'er he be,
+A victim to the blind insensate rage
+That sheds man's blood, and dares to think it virtue.
+Exit.
+Ha! The time calls for rigour; feeble laws
+And government relax'd might hazard all
+The laurels this good sword has reap'd in war.
+Rash and presumptuous boy!—By my command
+He shall retrace his steps;—This very hour
+Sees Orellana his. Ourself will seek him.
+Mean time, Orazia, be it thine to see
+That traitor die a victim to his crimes.
+Exit.
+Yield Orellana: Or thy mother's love
+Turns to vindictive rage.
+Dishonour blast
+The horrid counsel—rather brave with scorn
+Their fiercest hate—Not all the worst of ills
+The purple tyrant has in store for virtue
+Can plead for pardon with your gods abjur'd.
+Oh! Shun the guilt of treason to your soul!—
+On the mind fix'd and obstinately just
+Ev'n ruin falls in vain—
+It falls this moment
+On thy devoted head—
+Orazia, hear me—
+Restrain this rage—all nature starts with horror.—
+Humanity is shock'd—if he must die,
+Of all who live, thou should'st be innocent.—
+Cling not about me thus—
+Forbear, forbear
+The horrid stroke—not all the dews of Heav'n
+Will wash the barb'rous murder from your hands.
+Remorse and anguish follow—peace of mind
+Will ever shun thee—fiends will haunt thy brain,
+And all the madness of despairing guilt.
+Thou plead'st in vain—my soul expanding feels
+The glowing rapture, the exalted purpose
+That swells above the infirmities of nature,
+And burns with all it's god.—
+Ye host of heav'n!
+Seize Orellana—drag her to your altar;
+In horrid union bind me to Don Carlos,
+Rather than break by one atrocious act,
+All the eternal ties that link the world.
+Thou break them not—our country and our gods
+Those are our first connexions—for my life
+It is not worth my care—who dies for freedom
+Has liv'd his course of nature and of glory,
+And who survives it but a single hour,
+Has liv'd that hour too much.—
+My soul resumes
+Her strength—I will not yield—
+The traitor dies—
+He dies this moment—
+Undisinay'd I come.
+No—never—never—here these hands shall hold him—
+A soldier lays hold of her.
+He shall not die—tear, tear me piecemeal first—
+I'll perish with him rather—let the blow
+That ends his life, unite us both in death—
+She is torn from him, a soldier stands at the altar with a listed sabre.
+Now Altabalipa, where'er thy spirit
+Roams in uncertain being, with thy firmness
+Inspire me now—teach me like thee to die.
+Ah!—wherefore should the slave invoke that name?
+She goes near the soldier.
+Lo thus I bare my bosom!
+Goes up to the altar.
+Ha!
+Yet hold!
+Held by a soldier.
+Thou wretched mother hold—it is—forbear—
+It is the purest blood of all Peru—
+A vengeful god—a god of wrath beholds
+The barb'rous deed—I hear his thunder roll—
+It bursts the roof—the pillar'd temple falls—
+It falls tocrush ye all—
+Here strike at once,
+And with my life-blood glut her frantic rage.
+Forbear
+(
+holding the soldier
+)
+I charge thee; stop the bloody stroke—
+Oh! wonder-working pow'rs!
+faints away.
+The well known token
+Grav'd on his breast has mark'd him for her son.
+[aside.]
+Enter
+PIZARRO.
+No, nought shall shake the purpose of my soul—
+Orazia! why thus sinks her drooping spirit?
+Does justice triumph o'er the gods of Spain?
+Recall her heav'n, and o'er her waking sense
+Pour down your gentlest influence.—
+Assists Orazia.
+Rebel slave!
+Th' exterminating wrath of heav'n pursues thee—
+Still shalt thou meet thy fate—
+Oh! lend your aid,—
+And lead me, lead my steps—my Lord Pizarro,
+If e'er Orazia won thy kind affections,
+Remit the cruel rigour of the law,
+And spare a wretch's life.—
+She too rebels—
+She pleads for heresy—
+Oh, no! I plead
+For mercy, and for justice.—
+Would'st thou save
+That wilful obstinate? reflect Orazia;
+Is this your faith?—Is this your promis'd zeal?
+Zeal in excess is vice—'tis impious—
+Horrid repugnance to the will of heav'n;
+Subversive of each virtue; foe to all
+The tender laws of charity and love;
+Those laws that raise, and dignify our being,
+Nature's great edict in the human heart.
+Thy words are treason—
+No! 'tis justice speaks—
+Thanks to th' eternal pow'rs, at length I see
+That each religion, truth itself may have
+Its wild enthusiasts, and its frantic zealots.—
+By heav'n some hidden meaning lurks beneath
+This sudden revolution of thy heart.
+Oh! spare his innocence—have mercy—
+Yes,
+The slave shall live till from that stubborn spirit
+Torture hath wrung each deep, each hidden purpose.
+See him secur'd in the deep dungeon's gloom.
+Yes, lead me hence, where I no more may see
+This hated race—but oh! when I am gone,
+Respect her woes, her helpless innocence—
+From death I shrink not—nature at my birth
+Condemn'd me to it—soon the hour shall come
+When truth, when conscience shall condemn thy deeds—
+Exit.
+The rebel's doom is fix'd—I burn to see
+Each shackled slave thro' our extended realm
+Or live a Christian, or embrace his fate.
+Exit.
+ORAZIA
+and
+ORELLANA.
+Oh! Orellana, 'tis—it is your brother—
+The wound indented on his youthful breast—
+Plainly I saw it—'tis my child, my son—
+It is Alzuma—oh! I know it all—
+This day reveal'd it to me—
+Was it just
+To leave him thus expos'd?—
+He will'd it so—
+Wretch that I am!—I tremble at it still—
+Oh! whither was I plunging!—what a depth
+Of woe and guilt, unutterable guilt,
+What endless misery have I escap'd!
+Murder my son!—barbarity unheard of!
+It shocks my soul—and did he, could he think,
+Could my child think me dead to human nature?
+The thought distracts; it rives a mother's heart,
+To thee I've been ungentle; thou hast cause
+To doubt my love—but come to my embrace.—
+Oh! bless'd event! and do I live to taste
+This unexpected joy, this dear delight?
+The brink of horror, on which late I stood,
+Recalls from error ev'ry wand'ring sense.
+Alzuma shall not die—the Christian's God
+Beams the sweet smiles of universal love
+On all his fair creation—haughty Spain
+Perverts his holy laws; but still the pow'r,
+That warn'd my erring virtue, may inform him
+Truth only triumphs when it conquers hearts,
+And never gains by carnage and destruction.—
+END OF THE THIRD ACT.
+ACT IV.
+Scene the Palace.
+Enter
+ORAZIA.
+OH! Unexpected day of grief and joy!
+My child, my child!—I have not yet forgot
+To shed the tear of natural affection,
+To know for whom I bore the child-bed pang;
+I am not grown the horror of the world.—
+Enter
+ORELLANA.
+Alas! all's lost—Don Carlos rages;—Stern Pizarro
+Thirsts for Alzuma's blood—
+A mother's love
+Shall still protect her offspring—Oh! My daughter,
+Affection long an alien to this heart,
+Gushes in tumult thro' each panting vein.
+Despair and anguish too o'erwhelm my spirits—
+Yet, Oh! returning nature! yet thy griefs,
+Thy very tears are tinctur'd still with joy!
+'Tis misery delightful—
+Yet ev'n now,
+The fell Gonzalez leads Alzuma forth.
+Ah! whither do they lead him?
+'Tis to me
+They lead your brother forth—one interview
+Unconscious of his name Pizarro grants.
+Heav'ns! What an interview!—A son enslav'd,
+And a fond mother, who usurps his rights!—
+I cannot see my child!—And yet I must,
+I will behold him!—Hear his sad, sad story,
+Gaze on each seature—clasp him to my heart,
+And perish with him, if he's doom'd to bleed.—
+Thou fly to Carlos,—soothe his troubled mind;
+Exert your influence, or your brother's lost.
+Each moment's big with death.—
+Protect him, Gods!
+Now virtue struggling in the last extreme
+Calls for your guardian care.
+Exit.
+Ye blended colours, both of guilt and virtue,
+Ye strong emotions mix'd of grief and joy
+Oh! How your conflict racks my tortur'd soul!—
+Enter
+GONZALEZ.
+The pris'ner from his dungeon waits your will.
+Give him admittance.
+[Exit Gonzalez]
+Now all-gracious Heav'n,
+Support a mother;—aid me; touch my lips
+With thy resistless energy of speech,
+That I may calm the mighty storm of passions,
+And reconcile a son to life and truth.
+Enter
+ALZUMA.
+His awful stern regard—
+My firmness fails,
+And guilty as she is, yet filial love,
+Yet nature tells me, she's my mother still.
+Approach my son—Embrace your—
+Conscious shame,
+The sense of vile misdeeds—yes, goading conscience
+Choaks up thy voice, and tells thee that thou art—
+A tyrant! an usurper!—That's the name
+Of horror thou would'st utter—yet Orazia
+Is not so far abandon'd o'er to guilt,
+But my heart bounds with transport, even thus
+At length to see my son—You weep Alzuma—
+Thou source of light!—Bright majesty of Heav'n!
+Thee I attest—from thee implore forgiveness
+That thus I own a traitress; that these tears
+Confess the sacred character of son
+You stamp'd upon my nature.—
+Oh! Alzuma,
+Did I command thy murder?—Earth and Heav'n!
+A mother ready to imbrue her hands
+In her child's—horror!—Why did'st thou conceal
+The secret from me?—Why not rush for shelter
+To these maternal arms?—But oh! I knew thee;
+Parental instinct gave the sure alarm,
+And now to hear thee, view thee thus,—it wakes
+Unutterable throbbings in my breast.
+Well may'st thou view me; well may'st thou survey
+Thy son return'd!—He brings no foul dishonour—
+But thou—can'st thou—indelible reproach!—
+Oh! stain to virtue!—rage and indignation
+Burn in my soul, and kindle madness there.
+Let not impetuous rage disturb thy reason.
+Heav'n on the Spaniards arms hath smil'd success;
+Thence on Peru shone forth the ray of truth,
+Sublimer faith, and pure exalted morals.—
+Morals!—Each word plants daggers in my heart—
+Oh! Give me daggers rather; arm my hand
+With their own deathful steel, that I may hold it
+Crimson and glowing with the tyrant's blood,
+Aloft to view, and call my country free.
+Controul this phrenzy—it were impious murder—
+Murder! a sacrifice! a glorious sacrifice!
+To injured men, and violated laws.—
+What! he that kill'd my father?
+And yet she pleads a fell destroyer's cause!
+Hold heart-strings, crack not yet—a curs'd invader,
+Who thins the race of man!—Ev'n now the cry
+Of infants murder'd at the fost'ring breast,
+The shrieks of virgins, dying heroes groans
+Sound in my ear—imperial palaces,
+The temples of our gods all wrapt in fire!
+Oh! image not, my soul, the horrid scene.
+I cannot bear his strong, his keen reproach.
+Yet wedded to him!—well those tears may gush,
+Well may those blushes glow upon thy cheek.
+Detested perfidy!—My father's heart,
+That heart, which ever beat with love of thee,
+Dust as it is, awakens in his tomb,
+Alive and sensible to guilt like thine;
+It stirs, it rouzes in the shroud of death,
+With horror at thy name, and feels it's pangs,
+It's tortures o'er again.
+Obdurate son!
+Thus to transfix, and rend a mother's heart.—
+Am I upon a bed of roses?—Lo! in chains
+My bleeding country! mark in ev'ry region
+The desolation that lays waste the land!
+Why wilt thou urge me to despair and horror?
+Oh! kill me rather; let the deadly point
+Pierce to my heart; I'll arm thee for the blow.
+Avenge my crime; avenge your country's fall.
+What says Orazia?
+Stifle in my blood
+The pious love I bear the Christian's God.
+Would'st thou debase me to the Spaniard's guilt?
+If thou indeed believ'st the Christian's God,
+It is not mine to stab for human error.
+Farewell! Farewell!—Live happy if thou can'st,
+Oh! Heav'ns, if happiness can dwell with guilt.—
+Going.
+Yet stay, my son—one moment—
+Pow'rful nature!—
+Thy tender strugglings—Oh! While thus thy hand
+I bathe with tears, and print my kisses on it,
+Let me implore thee, own your godsagain,
+My father's spirit calls—the ghastly shades
+Of martyr'd millions, martyr'd for their faith,
+All lift their hands and call aloud for vengeance.—
+Arise, my son, arise—
+Let me not sue,
+And clasp your knee in vain—
+Oh! Strong contention
+'Twixt grace and nature, 'twixt my God and thee!
+Resume your dignity, your native honour—
+But Heav'n prevails—
+Think of your bleeding country—
+I cannot, must not hear thee—Oh! Alzuma
+Thy mind is lost in darkness—
+How!—
+Thy gods
+Are superstition's dreams—
+Away—no more—
+Rising hastily.
+I would not hear the voice of profanation—
+Go tell your tyrant, all his threats are vain—
+Tho' sprung from thee I still can die with glory—
+Farewell! we part for ever—
+Hear me—hear—
+Oh! Heav'ns—Orazia—'tis the last, last time
+That e'er—may the just gods forgive thee all—
+Exit.
+Go, cruel, fierce, inexorable son!
+Go, since thou wilt, to ruin, rush on death—
+'Twill break thy miserable mother's heart.—
+ORAZIA,
+and
+DON CARLOS.
+Well, Sir, Pizarro now has heard your counsel.
+And Orellana has heard thy advice;
+That Indian captive too has heard you;—all
+Thy arts are known; thy fair hypocrisy
+To varnish treason.
+Oh! Thou wrong'st me much;—
+Another cause—a cause of tend'rest import;
+It is the cause of ev'ry Christian virtue;
+Love, justice, and humanity are in it;
+All that the earth holds dear, and heav'n approves.
+Treason, rebellion, perfidy are in it.
+For Orellana's husband all your cares
+Are tremblingly alive.—This very day,
+But for thy treachery, the slave had died.
+Misguided youth!—Alas! you little know
+Th' eternal bar divine and human laws
+Have fix'd between them—Orellana's husband!
+Oh! no—believe it not—
+And wherefore then
+Alarm'd and wild with fear?—why every art
+Of tears, of shrieks, and female lamentation,
+To snatch the rebel from the stroke of justice.
+Alas! these tears flow from the tend'rest source
+That wakes soft pity in the human heart.
+Carlos—I cannot speak—
+Ha! Now by Heav'n
+I see it all—guilt can no more dissemble—
+That look betrays the secrets of the heart.—
+The fraud stands manifest to view—
+Yet hear me,
+Oh! Carlos, hear me, nor afflict thyself
+With false, with vain surmise—Orazia's cares
+Are busy for the wretched—
+Has she then,
+Perfidious fair!—has Orellana married
+That base-born peasant?—And does he hope
+With her, in evil hour, to claim the crown?
+That is your aim; for that I am deceiv'd—
+That care you colour with the specious name
+Of generous sympathy for human kind.
+I feel it here—These are unbidden drops—
+Tis you, rash youth, you, Carlos, that can give
+Fair virtue's semblance to each wild emotion
+That prompts the sudden deed—ere now 'twas love,
+That tyrant of thy soul, capricious love,
+Nay, gen'rous if you will; 'twas that which sav'd
+The lives of men, if Orellana smil'd;
+And now she looks averse, the baleful charm
+Still shoots delicious poison thro' thy soul,
+And persecuted men must pay the forfeit
+Of maiden blushes, and of coy disdain.
+Think'st thou Don Carlos means to live the slave
+Of idle charms, and tyrant beauty's frown?
+No—let her charms neglected fade and perish.
+May sorrow wither ev'ry nameless grace
+That revell'd once in those deluding eyes.
+Then let her lover gaze on faded beauty;
+Let him enjoy—Oh! no—the slave shall die—
+Then shall his pale inanimated corse
+Glare in her view, an offering from Don Carlos,
+The token of his love.
+Away; no more;
+Inhuman that thou art—
+Then let her shriek,
+And rend her hair, and to his clay cold breast
+Rivet her panting bosom—no! the traitress
+Shall to the altar—thou shalt lead her thither,
+And there her blood shall expiate, her guilt.
+Thou tiger nurs'd with gore! away, nor dare
+With savage threats to wound a mother's ear.
+The storm is gather'd, and the thunder soon
+Shall burst in ruin on their guilty heads.
+Exit
+Inhuman barb'rous man!—And must I lead
+Midst songs of triumph, and thro' festive bands,
+My daughter crown'd with garlands to the altar?
+Shall there the priest, fell minister of wrath,
+Force her to nuptials, which her soul abhors,
+Which never—No—she'll perish rather—first
+Give to the cruelax that tender form!
+And must her mother, must I then return
+Alone—heart broken—desolate—without
+My child?—thro' arches rais'd with pomp for her?
+Thro' ways still redolent of ev'ry flow'r,
+Which, as she went, they strew'd beneath her feet?
+I will not lead her—no—she shall not go—
+Alzuma too—Oh! misery supreme!
+Shall he too bleed?—Thou murd'rer! hold thy hand—
+It is Orazia's blood thou shed'st—the God,
+Who died for all, will not demand his life!—
+He speaks—he menaces—but see, see there!—
+He dies, he dies!
+Enter
+ORELLANA.
+Who's there?—What would'st thou?—ha!
+Haste thee, Orazia haste, and instant think,
+Think of some means to ward th' impending stroke.
+Enrag'd Pizarrocomes;—Avow, your son;
+Peru's undoubted heir.—
+It must not be—
+That fatal truth would overwhelm us all—
+Distraction—nought remains—no pow'r can save him.
+Enter
+PIZARRO, DON CARLOS,
+&c.
+Yes, bring the traitor forth—the sanctity
+Of laws, the policy of our new state
+Forbid all dull delay—
+Enter
+ALZUMA, GONZALEZ
+and Guards.
+That once again I deign to parley with thee,
+'Tis gentle pity prompts—take heed, rash youth,
+Or certain death—
+Death is the only boon
+That Spain can give, or I will deign to take.
+Come bloody bigot!—Reverend assassin!
+Come on at once—here wreak thy pious rage,
+And do a murder in the name of heav'n!
+Dost thou reproach us? Thou, who oft hast seen
+Blind superstition offer human victims,
+To your own senseless, to your monstrous idols?
+Polish' barbarian!—What dost thou do less?—
+Beware, not tempt my vengeance!
+Thou art he,
+Who come'st to teach thy doctrine sword in hand,
+To tyrannize our souls; from free-born men
+Withhold the sacred privilege of thinking.
+Thou hast unchain'd, to spread destruction round,
+Two fiends accurst; Lo! where insatiate avarice
+Enslaves mankind! Lo! Spanish hierarchy
+Erects her scarlet head; with pious rage
+Bears in her breast a poniard, and with blood
+Incarnadines the altar of her god.
+Slave mark my words.—No more I'll waste the hours
+In vain debate—Resign thyself to Spain;
+Abjure thy errors, and embrace the truth,
+Or else this moment sweeps thee from my sight,
+A terrible example of our vengeance.
+No, by the pow'rs above he shall not die.
+The voice of heav'n restrains the murd'rer's hand,
+A voice that's heard thro' all the peopled earth,
+Resounding to the limits of the world.
+Beware, beware, Orazia!—
+Still she favours
+That insolent, who spurns the light of heav'n.
+Oh! 'tis the light of heav'n informs my soul.
+These strong emotions by the Pow'r Supreme
+Were planted here—The spirit that impels
+To blood and murder, cannot be from heav'n.
+Nature, thou lead'st me on—my child, my child—
+I will protect thee—Now, inhuman men,
+Now come, and tear him from a mother's arms.
+Yes, both, my brother—both will perish with thee.
+By heav'n this treason!—
+Orellana's brother!
+And not her husband!—Then my heart's at peace.
+Aside.
+What means this myst'ry?—Say, art thou Alzuma?
+Behold me, Spaniard; let thine eye survey me—
+Shrinks not thy heart within thee?—Read'ft thou not
+A royalty of nature here?
+Forthwith
+Say wilt thou take thy life on our conditions?
+There are conditions that may win my soul
+Not wholly to abhor thee.
+Name thy terms!
+Lay down at once the persecuting sword,
+Relieve from slavery a groaning world,
+Ask what we suffer, not what we believe,
+Display your morals, not your bigot faith.
+If avarice is your god, take gold enough;
+Freight well your ships, and may propitious gales
+In safety waft you to your native shores.
+That done—in time we may perhaps forget,
+We may at least forgive you.
+Vanquish'd slave!
+And to a conqueror dar'st thou thus to utter
+Thy stubborn pride!
+Back to your native shores!
+What do you here, amidst a virtuous race?
+The laws of conquest, and the laws of Spain—
+And dar'st thou, homicide, alledge the laws?
+The laws of Spain—know there's a prior law,
+To which weak mortals are not train'd, but born;
+Not form'd by science, but endow'd by instinct,
+Great nature's law!—that best, that surest guide;
+That emanation from the pow'rs above;
+O'er all diffus'd, immutable, eternal!
+This who snall silence, who shall dare repeal?
+Who strives to do it abdicates his nature;
+Renounces all the honours of his being,
+And by the act,—tho' justice ne'er o'ertake him,
+Pays full atonement:—He's a wretch indeed.
+I'll hear no more; since thus thy heart is steel'd,
+Thus obstinately fix'd in wilfull guilt,
+The justice that pronounc'd thy father's doom,
+Awaits thy crimes.—No dark assassin's stab
+Ended his days:—To our tribunal call'd
+In full assembly of the conquering chiefs
+He was arraign'd, was heard, and died for treason
+To Spain's imperial crown.
+And shall that mockery,
+That stain to justice, that black scene of horror
+Be acted o'er again?
+And dost thou too,
+Dost thou rebel, consed'rate in their guilt!
+Our will is fix'd:—ere yonder sun decline,
+Hear me thou slave!—or yield to truth and Spain,
+Or else yon sun—that idol of your worship,
+Shall see thee on the rack in pangs expire.
+Exit.
+Thou brave heroic youth, thy ev'ry virtue
+Demands my wonder—by yon heav'n I swear
+Thou shalt not suffer; my soul eager pants
+To know, to love, to burn in friendship with thee.
+Exit.
+Alzuma—Oh! my son—in this distress
+How shall the wretched mother save her child?
+Waste not a though on me; thy own misdecds,
+Repent of them; and since the gods withhold
+A brave revenge, 'tis left us still to die,
+And greatly perish in our country's ruin.
+You must not linger here: my duty bids me
+Convey thee hence.
+Thou busy meddler!—here
+Orazia now commands—I lead him forth.
+And who shall dare oppose a mother's voice?
+Exit with Alzuma.
+Yet grant us vengeance, heav'n; Oh! give us still
+To conquer ev'n in death, then mix triumphant,
+With pensive ghosts, and roam the shadowy plain,
+Where all is peace, all bliss in endless store,
+And no pernicious Spaniard thirsts for gold.
+END OF THE FOURTH ACT.
+ACT V.
+Scene the Temple of the Sun.
+Enter
+ORAZIA
+and
+ORELLANA.
+GO, cruel go, and leave me to my woes.
+I feel'em all—but what, beset with ills,
+Can Orellana do?
+What can she do?
+Prevent the stroke—assuage Pizarro's sury—
+That canst thou do, yet obstinately fix'd—
+But fix'd in honour—Oh! thou little know'st
+Alzuma's soul—He will not take a life
+Purchas'd by vile disgrace; will ne'er survive
+To see Don Carlos seize my plighted hand,
+That he may linger out his days in bondage.
+And if his ardour, if his ev'ry virtue
+Swell o'er their bounds, and bear his reason down,
+Wilt thou unpitying—the bare image strikes—
+Weep'st thou my daughter?—Let the gen'rous sorrow
+Melt thy hard heart and bid Alzuma live.
+Would heav'n I could! but if my brother fall,
+With him 'tis fix'd to die—Thrice happy both
+If ev'n in ruin our unshaken zeal
+Our country honours, and our gods approve.—
+Then go, rush on, unnatural as thou art,
+Go since thou wilt and see a brother bleed—
+I'll to the altar too—The blow that sheds
+Alzuma's blood will be Orazia's last.—
+Enter
+CARLOS.
+Let joy succeed and triumph in your hearts—
+I bring ye gladsome tidings.—
+Speak thy purpose—
+I've seen your son—at length each raging passion
+To peace subsides, and takes a milder tone.
+His errors vanish and with sense reclaim'd
+He dedicates his soul to truth and Spain.
+What do I hear?—The tale of infamy—
+Then is Orazia blest—my son shall live—
+But tell me—does Alzuma—tell me all—
+Means he this day—
+This very hour he means—
+To offer up his vows at yonder altar;
+He and his chosen friends—He only asks
+That while Pizarro views the solemn act,
+The gazing multitude may stand aloof,
+Nor interrupt him in his holy work.
+All bounteous Providence!—now, now indeed
+You give me back my son—Upon the wing
+Of love and rapture let me seek Pizarro,
+Tell him this unexpected bless'd event,
+That saves at once a mother and her child.
+Exit.
+Thou hear'st it, radiant Deity; thou hear'st
+This worst of crimes, nor yet thy orbit halts,
+Nor turns its course back to the astonish'd east,
+Nor impious mortals dread eternal night!—
+Suppress this storm of passion; smiling peace
+Comes with her gentle train, and love prepares
+His torch to brighten all our future hours.
+All truth is fled; Alzuma is a slave!
+Henceforth esteem and dignities await him;
+New joys and all that lavish hearts can pour.
+Let him accept them; let him meanly stoop
+To take a conqueror's gifts; these are your arts,
+The arts of tyranny, by which you draw
+With baleful luxury, with bland allurements,
+Each captive mind, till weak deluded men,
+Grown the voluptuous slaves of ev'ry vice,
+Become the slaves of ev'ry master too.—
+A moment brings him to you—then you'll see
+He comes with mind enlighten'd—Truth divine
+Will from his lip more welcome touch thy ear,
+And hush to peace this tumult of thy soul.
+Exit.
+The tumult of mv soul will ever rage.
+Well, injur'd deities, you fly a land,
+Where not one virtue's left—you have full cause—
+Ev'n your own progeny betrays your rights—
+To hostile gods betrays—yet let those gods
+Boast of their proselyte—to them he'll prove
+A young, a subtle hypocrite—Each vow
+The traitor offers at their Christian shrine
+To his own heart, to universal nature
+Will give the lye, and stamp the guilt upon him
+By men and gods abhorr'd—the tenfold guilt
+Of daring to equivocate with heav'n!
+I will not live to see it—Ha! he comes—
+Enter
+ALZUMA.
+My sister!—why is this?—thou shun'st me then?—
+Thou shun'st thy brother?—
+Thou hast ruin'd all—
+Distract me not with thy unkind disdain—
+All that is great in nature leads me on—
+And my heart labours with the vast conception.
+Vain effort to dissemble!—Even now
+The strong expressive characters of guilt
+Glare in thy eye, and shoot their livid fires.
+Talk not of guilt—thou little know'st—
+Not talk,
+When faith and truth, the sense of ancient honour
+Are trampled down? when in base abject fear
+A brother derogates from all his race,
+Abjures at once his country and his gods,
+And with the foe capitulates for life?
+Thy virtue charms me; but thou ill dost chuse
+This awful period—'tis a moment big
+With desperation, with disast'rous change,
+And horrible intents—I see thee now
+Perhaps for the last time.—
+What say'st thou?—Ha!—
+That look terrific! But too plain I read—
+And yet they told me—
+Who?
+Don Carlos.
+What?
+Of gods abjur'd—
+And did'st thou hate thy brother?
+And can'st thou blame me?—
+I do thank thee for it—
+Still thou art true?—
+As heav'n's foundation fix'd!
+Fix'd as the marble pillars of the world.
+Have I then wrong'd thee?—Oh! Alzuma.—
+Come,
+Thou best of sisters, daughter of the sun!
+Worthy thy character!—Come to my heart—
+And yet is this a time, this hour of horror
+To pour the softest transports of the soul,
+And mingle tears with madness and despair?
+Thy words, thy looks, appall my frighted sense,
+Alas! my brother, ere we part—
+No more;—
+I charge thee urge no more—whate'er my lot,
+Thou'lt wonder and applaud.
+Yet boading fears!
+Let me attend thy steps.
+It must not be—
+Wait here thy mother's coming; with apt speech
+Beguile her stay—I would not have her near me—
+Time flies; the hour draws nigh; Immortal pow'rs!
+The genius of Peru! The fates are busy!—
+All nature pauses for the great event.
+Thy words portentous—ha! Pizarro comes!—
+Enter
+PIZARRO.
+At length, Alzuma, with serenest influence
+Grace lights upon thee—Come, the altar blazes;
+Thy friends are rang'd around—the brazen gates
+Exclude the busy throng—all things are ready—
+All ready saidst thou?
+All—We wait but you—
+Horror!—You wait but me!—go on—I follow—
+Approving heav'n smiles on the just design;
+This holy work perform'd—all will be well.
+Exit Pizarro.
+Be firm my heart, and you, my trembling sinews,
+Hold, hold a while—What hollow voice is that?
+'Tis silence deep, and solemn stillness round—
+"Now is the time," it cries—I come, I come—
+The sacred impulse—hark!—it calls again—
+Ye crimson spectres! and ye gleaming fires!
+Ye spirits of revenge, who point my way—
+Lead on;—your mortal instrument I come!—
+Exit.
+Oh! how my heart—who's there?—
+Enter
+ORAZIA.
+And will you still
+With scorn reject a lover's tend'rest vows?
+Let me prevail—
+'Tis not an hour for love!
+Not when your brother—
+He approves it not—
+Has he not call'd Pizarro to the altar?
+He wish'd to meet him there—
+He wishes too—
+To see his sister recompence at length
+Her lover's faithful fires—Where is Alzuma?
+Hast thou not seen him?—
+He went hence but now.—
+Then he has sought the altar—Let us thither.
+I'll come anon—not now—it were not fit
+You should be there—far other work impends—
+The work of fate—'twere best remain—you must not go—
+What mean those falt'ring accents?—ha!— what noise?
+Defend me, heav'nly pow'rs, defend me—
+Hark!
+Perfidious traitor! Cleave him to the ground—
+They murder him, they kill my son— forbear—
+Hold, ruffians, hold—
+Exit.
+The gods, the injur'd gods
+Demand his blood—
+'Tis my brother's voice—
+Yes, strike Alzuma; with redoubled blow
+Avenge a father's death.—Oh! how my heart
+Pants in this dread suspense with hope and fear!
+I tremble for the event—Look down ye pow'rs
+And shield my brother's life.
+Exit.
+Enter
+GONZALEZ.
+Wild tumult fills
+The spacious temple.—Ha! again I hear it.
+Whence this fierce uproar?—
+Enter
+Enter
+CARLOS.
+Treason and murder!—sound there, sound the alarm!
+a flourish of trumpets, and the bell tolls.
+Alas! What new event—what have the fates—
+Oh! 'tis a spectacle of woe and horror!
+My father dies a victim to their fury.
+With treacherous arts Alzuma hath deceiv'd us.
+The rites were all prepar'd: the lawn-rob'd priest
+Stood reverend at the altar; tapers blaz'd,
+Incense arose and organs fill'd the choir,
+When forth Alzuma came with solemn pace
+Looking submission—We scarce saw the blow—
+Wing'd with the light'ning's speed he sheath'd his dagger
+Deep in my father's heart.
+What says my Lord?
+Recall the words.
+Oh blind and fatal rashness
+That drew me unsuspecting to the altar!
+No sword, no weapon to defend his life!
+Yet with what force I could, with desp'rate rage
+I rush'd amidst their throng—Ev'n that was vain,
+The traitor's friends that instant clos'd around me.
+And I no aid could give—Why lingers thus
+The tardy soldier? will no friend supply
+An instrument of vengeance?
+Soon the guards
+Shall stop each avenue—Alzuma then
+Shall pay the forfeit of his horrid treason.
+With lion rage he dash'd him on the ground,
+With his left hand grasp'd the dishevell'd hair,
+And round his arm the plaited locks intwining
+In gore he dragg'd him to the altar's base;
+And I the while could only rend the air
+With piercing cries—they held my feeble arms.
+And is he martyr'd thus by savage hands,
+His conquest stopt, and all his laurels wither'd?
+Orazia comes—she raves, she screams, she flies
+Wilder than winds; upon her mangled Lord
+Throws her extended body, clasps him close;
+Then looking piteous up with streaming eyes,
+"Forbear my son—forbear: thou shalt not murder."
+But nought can save Pizarro from his rage—
+"Die, monster, die"—he cried, then tore him from her
+Along the crimson marble—in despair
+Upward she sprung, and darting round his neck
+With circling arms, entreats, implores, beseeches,
+Bathes his broad chest with tears, and vainly strives
+To save a husband from a murd'rer's rage:
+Detested treacherous villain!
+Arm, arm my friends.
+Arm all Peru and give the means of vengeance.
+This way, my Lord—Revenge will now be ours,
+At yonder gate I see the faithful bands.
+Do thou go forth and let the troops invest
+The temples round—Let ev'ry pass be clos'd
+That none escape my fury.
+[Exit Gonzalez.]
+Righteous heav'n!
+Now in your cause stern justice lifts the sword,
+And the fell murderer from the altar dragg'd
+Shall fall a victim to my just revenge.
+Exit.
+[Flourish of trumpets and bell tolls.]
+Enter
+ALZUMA
+and
+OZMAR.
+Brave Ozmar, oh!
+To ev'ry injur'd god this reeking blade
+Pour'd hot libation of the tyrant's blood.—
+Immortal spirits, crown him, crown the hero;
+The godlike blow for liberty is struck.
+The murd'rer of mankind has breath'd his last.—
+Enter
+ORELLANA.
+My Orellana, ha!—what means that look
+Ghastly and pale?—Wherefore that trembling step?
+Thou art not wounded?
+Oh! too deep—too deep—
+Thou too Alzuma—born to bitter woe!
+Deep in thy heart is fix'd the mortal stab—
+The altar blushes with forbidden blood—
+Thy wretched mother—
+Speak; distract me not—
+Ev'n now she dies—
+By the dread pow'r's of vengeance,
+Who e'er has dar'd—I here attest the gods—
+Attest not heav'n against yourself—Thy arm—
+Alas! thy desp'rate arm.
+What dost thou mean?
+Too plain I saw—as round your neck she clung,
+And sued for mercy to Pizarro's life;
+You then—unconscious—bent on other mischief—
+As still she struggled to restrain thy arm—
+Then gush'd the sacred blood that gave you being.
+Open thou earth, and take me—take me down
+To scare the fiends below—
+The back Scene draws, and discovers an Altar,
+Pizarro
+lying dead, and several Indians standing round.
+ORAZIA
+is brought forward.
+And lo!—see there
+See where the miserable victim comes.
+Oh! I am faint—I die—soft—lay me down.—
+Disastrous fate!
+Have I deserv'd this misery?
+I die!—alas! I die—where are my children?—
+My Orellana—nearer—Oh! Alzuma!—
+Wilt thou not know me?—in this last distress
+Not lend a pitying hand?—
+'Tis red with blood—
+With horrid parricide—its touch will blast
+Thy sad remains of life—
+Approach Alzuma—
+Support me—Lend your hand—Yours, Orellana, yours—
+Life ebbs a pace—I leave ye both—I leave
+My dear, dear children—Yet to hold ye thus
+Makes ev'n langour smile—and sostens all
+The pangs of death—
+I call each god to witness,
+Each cruel god, I never meant to harm
+That matron breast that gave its nurture to me.
+Alas the agonies of death are on her.
+Enter
+CARLOS.
+There fix your station guards!—Orazia too
+Deform'd and gash'd with wounds! in death's embrace!
+Fell savage monster! Torture waits your guilt.—
+Forbear, forbear; the warning hand of heav'n
+With these events repays our thirst of blood—
+Too much has flow'd already—Let my child
+Now live in peace—it is my dying pray'r.—
+Dost thou forgive thy horrible assassin?—
+'Twas not thy guilt—Mischance, 'twas dire mischance
+That wrought the deed—I thought they murder'd thee,
+I flew—thy mother flew to save her child—
+In that sad moment—Oh!—
+Yet spare her heav'n!
+She dies in torment.—
+No, Alzuma, no—
+I feel no pain my child—In me thou seest
+How an expiring christian suffers death—
+Thou God of mercy—ha!—hold!—raise me up—
+Alzuma, where, where ar't thou?—Yet a word
+If ever I was dear—if ever—Oh!—
+Dies.
+She's gone; she's gone; and with her dying breath
+Pardon'd her murderer!—Could she then forgive me?
+Is that a christian virtue?
+'Tis the virtue
+Which you have spurn'd; but since th' expiring saint
+Granted her pardon,—Spain accords it too!—
+Strike me, just gods, deep to the center—here
+I stand a parricide—a mother's blood
+Still glows upon this hand!—And are ye not
+Gods of just vengeance? Will your wrath permit
+A wretch like me to stalk the groaning earth?
+Ye mountains hide me!—Oh! no place can hide
+A deed accurs'd like mine!
+Falls down.
+And do I live
+To see my mother thus?—A ghastly form!
+A little while and those dead lips had utt'rance!
+That heart beat warm with gen'rous affection!
+Thus do I see thee? Is this mangled corse
+All that is left me of thee?
+She, like me
+Has lost a parent—Lend her your assistance,
+My friends, support her weak and tender frame.
+(Rising on his knees)
+She gave me being, and this impious hand
+Hath giv'n a stab to nature: to the womb
+That brought me forth, bears the assassin's knife;
+I wait just pow'rs for your dread pleasure: strike
+Here—strike at once; launch your red vengeance down—
+Punish and pity me!—
+His woes are great
+And his heart lab'ring with the strong compunction
+Speaks the soul big with ev'ry gen'rous instinct,
+Wild nature's growth—Forgive me, oh, my father,
+Who there liest stretched in death—if I respect
+The virtues of a foe—Alzuma rise—
+Repentance may efface—
+Away, nor talk
+(
+starting up
+)
+Of fruitless penitence—no gods can pardon
+A crime like this—See there those glaring orbs!
+That bosom gor'd by this destructive hand!—
+Orazia!—oh that look, that smile in death
+Damns me beyond all depth—And yet I must
+I will approach her
+(
+kneels down by her
+)
+I no more can murder thee—
+Where are your tortures, Spaniard? Lo! that sight—
+Tear out—dissect my heart.—
+Alzuma hear me—
+In thee I have beheld the fierce extreme
+Of savage virtue—for a father lost
+You've laid a scene of blood—But now behold
+A Christian's virtue—By thy fatal arm
+My father there lies dead—and I forgive you—
+Forgive!—Forgive me said'st thou!
+Yes, nay more;
+I pity your misfortunes—for your country
+You've bravely fought! and I applaud your valour.
+For the mistaken zeal which here by slaughter
+Would plant the worship of the God of peace,
+I do disclaim it all—That righteous God
+Who gave the sun its light, and from his hand
+Launch'd forth the stars into the void immense,
+He tells weak erring man—We may persuade
+Our fellow creatures to embrace their good,
+But ev'n for truth itself must not destroy.
+(Rising up)
+Oh! wherefore, Carlos, were those godlike virtues
+To this sad hour conceal'd! Christians and Indians
+Both, both have err'd alike—The cruelty
+That mark'd its way with blood, provok'd revenge:
+But this your effort of unheard of goodness,
+Bids us repent ev'n of our country's love,
+Ev'n of our gods, and Orellana's heart
+Turns christian at the thought!—
+Oh, lost Peru!
+Fall'n, fall'n indeed!—thy foe was hitherto
+A robber, and a murderer!—now he conquers;
+Now his religion triumphs—all thy gods,
+Oh, land belov'd! thy gods prepare for flight,
+They yield to some divinity unknown,
+Some great first cause of all!—and shall you sun
+Move at a maker's will his stated round,
+No longer now ador'd!—the host of stars,
+Shall they be deem'd his work? the rainbow too,
+That over arches the wide tracts of air,
+Is his the hand that bent it?—I am lost
+In doubt and wonder!—Spaniard mark my words:
+If such the virtues which your God inspires
+We'll learn of thee to live. And oh! will learn
+Thou murdered excellence! of thee to die.—
+Enlighten'd hence, ye rulers of each state
+Learn to extinguish fierce religious hate;
+Truth came reveal'd from the eternal mind,
+To bid us love, and not destroy mankind.
+Not blast the work, which heav'n with pleasure owns,
+Hear, bigot kings! and tremble on your thrones.
+FINIS.
+EPILOGUE.
+Spoken by Mrs. HARTLEY.
+OUR Play thus o'er, now swells each throbbing breast
+With expectation of the coming jest.
+By FASHION's law, whene'er the TRAGIC MUSE
+With sympathetic tears each eye bedews;
+When some BRIGHT VIRTUE at her call appears,
+Wak'd from the dead repose of rolling years,
+When SACRED WORTHIES she bids breathe anew,
+That men may be,—what she displays to view;
+By FASHION'S LAW, with light fantastic mien
+The COMIC SISTER trips it o'er the scene;
+Arm'd at all points with wit and wanton wiles,
+Plays off her airs, and calls forth all her smiles;
+Till each fine feeling of the heart be o'er,
+And the gay wonder how they wept before.
+Say, do you wish, ye bright, ye virtuous train,
+That ev'ry tear that fell, should fall in vain?
+If this night's scenes soft pity could impart,
+Tis yours to fix the fashion of the heart.
+Adopt, ye fair, the lost Alzuma's cause,
+His ruin'd empire, and expiring laws.
+For ORELLANA may I dare to plead?
+My faults will all your kind indulgence need.
+On you my hopes are fix'd:—One smile from you
+To me is worth the treasures of PERU.
+The following DRAMATIC PIECES are written by ARTHUR MURPHY
+Esq
+and sold by T. LOWNDES.
+THE Apprentice, in two Acts
+The Upholsterer, in two Acts
+The Old Maid, in two Acts
+The Orphan of China, a Tragedy, in five Acts
+The Desert Island, a Dramatic Entertainment, in three Acts
+The Way to Keep Him, a Comedy, in five Acts
+All in the Wrong, a Comedy, in five Acts
+No One's Enemy but is Own, in five Acts
+What we must All come to, in two Acts
+The School for Guardians, in five Acts
+Grecian Daughter, a Tragedy, in five Acts
+PLAYS,
+Octavo, 1s. 6d.
+each.
+ART and Nature, by the Rev. Mr. Miller
+Athelwold, by A. Hill, Esq.
+Alzira, by A. Hill
+Barbarossa, by D. Brown
+Beggar's Opera, with Music
+Brothers, by Mr. Cumberland
+Coena; or Perjured Lover
+Cymbeline, by Hawkins.
+Dissembled Wanton
+Double Falshood; or Distressed Lovers, by Shakespeare
+Douglas, by Mr. Home
+Double Deceit
+Double Mistake, by Mrs. Griffyths
+Elfr
+d; or the Fair Inconstant by A. Hill
+Foundling, by Mr. Moore
+Fate of Villainy
+Fashionable Lady
+Fashionable Lever, by Mr. Cumberland
+Fatal Vition, by A. Hill
+Guardian Outwirtted
+Humours of Oxford
+Henry V. by A. Hill
+Henry VIII. by Mr. Grove, with cuts
+In
+olvent or Filial Piety
+Independent Patriot, by F. Lynch,
+Esq
+Lover, by The-Cibber
+Love in a Village, by Mr. Bickerstaff
+Modish Couple, by C. Bodens,
+Mahomet, altered by Mr. Garrick,
+Maid of the Mill, by Mr. Bickerstaff
+Mother-in-law, by Mr. Miller
+Momus turned Fabulist
+Midas, a Comic Opera
+Man of Taste, by Mr. Miller
+Minor, by Mr. Foote
+Miser, by Mr. Fielding
+Oliver Cromwell, by Mr. Green
+Orators, by Mr. Foote
+Prodigal, by T. Odell
+Plain Dealer, altered by Bickerstaff
+Papal Tyranny; or King John, by C. Cibber
+Periander, by T. Atkins, Esq
+Rinaldo, by A. Hill
+Roman Revenge
+Scanderbeg, by Mr. Havard
+Timon in Love. by Mr. Ralfe
+Timoleon, by B. Martin
+Village Opera, by Mr. Johnson
+Universal Passion, by Mr. Miller
+Widow Bewitched, by J. Motley
+Zara, with the Interlude, &c. by A. Hill, Esq
+FARCES, &c.
+Octavo,
+at
+1s.
+each.
+Amintas, an Opera
+Author, by Mr. Foote
+Boarding-School, with Music, by C
+y
+Britons Strike Home, with Music, by W. Philips, Esq
+Reggars Wedding
+Chamber-Maid, with Music
+Coffee-House, by Mr. Miller
+Cuizen, by Mr. Murphy
+Devil of a Doke
+Damon and Phillida, by B. Cibber
+Hospital for Fools, by Mr. Miller
+King-Lear, altered by Mr. Colman
+Livery Rake, by Mr. Philips, with Music
+Muses in Mourning, to which is added, Merlin in Love, by A Hill
+Merry Cobler, or 2d Part of Devil to Pay, with Music, by Coffey
+Oroonoko, altered by Dr. Hawkesworth
+Quaker's Opera, with Music, by Mr, Walker
